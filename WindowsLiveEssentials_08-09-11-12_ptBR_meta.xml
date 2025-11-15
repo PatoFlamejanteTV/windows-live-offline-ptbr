@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <identifier>WindowsLiveEssentials_08-09-11-12_ptBR</identifier>
+  <mediatype>software</mediatype>
+  <collection>open_source_software</collection>
+  <creator>Microsoft Corporation</creator>
+  <description>Esta é uma coleção dos instaladores do Windows Live Essentials (ou Windows Essentials a partir da versão 2012) nas versões 2008, 2009, 2011 e 2012 em português brasileiro, e são as últimas versões que eu consegui encontrar.&lt;div&gt;Note que alguns serviços não estão mais disponíveis, como o Live Messenger.&lt;br /&gt;&lt;div&gt;Pela minha pesquisa, o instalador do Windows Live Essentials 2008 é o único que não possui instalador offline, então eu inclui o executável do instalador online, mas você ainda consegue instalar ele porque os arquivos ainda estão nos servidores da Microsoft por algum motivo.&lt;/div&gt;&lt;div&gt;Mas caso esses arquivos algum dia forem deletados dos servidores da Microsoft, eu inclui um arquivo compactado com os arquivos MSI individuais para que você ainda consiga instalar os programas.&lt;/div&gt;&lt;/div&gt;</description>
+  <language>por</language>
+  <scanner>Internet Archive HTML5 Uploader 1.6.4</scanner>
+  <subject>microsoft</subject>
+  <subject>windows</subject>
+  <subject>windows live</subject>
+  <subject>live essentials</subject>
+  <subject>windows live essentials</subject>
+  <subject>2008</subject>
+  <subject>2009</subject>
+  <subject>2011</subject>
+  <subject>2012</subject>
+  <subject>offline</subject>
+  <subject>online</subject>
+  <subject>instalador</subject>
+  <subject>pt-br</subject>
+  <subject>português</subject>
+  <title>Windows Live Essentials (2008, 2009, 2011 e 2012) [pt-BR]</title>
+  <uploader>torre@torrenezzi10.xyz</uploader>
+  <publicdate>2020-06-16 00:19:33</publicdate>
+  <addeddate>2020-06-16 00:19:33</addeddate>
+  <curation>[curator]validator@archive.org[/curator][date]20200616004016[/date][comment]checked for malware[/comment]</curation>
+  <collection>community</collection>
+</metadata>
